@@ -1,0 +1,937 @@
+Archive member included because of file (symbol)
+
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              ./MCAL_DRIVER/TIMER2_PROG.o (__divmodhi4)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./MCAL_DRIVER/TIMER1_PROG.o (__do_copy_data)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL_DRIVER/TIMER1_PROG.o (__do_clear_bss)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./MCAL_DRIVER/TIMER1_PROG.o (__fixunssfsi)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./MCAL_DRIVER/TIMER1_PROG.o (__mulsf3)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./MCAL_DRIVER/TIMER2_PROG.o (__divsf3)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./APP_DRIVER/MULTIPAL_TASKS_CAR.o (__gtsf2)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./APP_DRIVER/MULTIPAL_TASKS_CAR.o (__ltsf2)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./MCAL_DRIVER/TIMER1_PROG.o (__floatunsisf)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__clzsi2)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+TIMER1CallBack      0x2               ./MCAL_DRIVER/TIMER1_PROG.o
+detect2             0x1               ./HAL_DRIVERS/FLAMESENSOR PROG.o
+TIMER0CallBack      0x2               ./MCAL_DRIVER/TIMER_PROG.o
+detect1             0x1               ./HAL_DRIVERS/FLAMESENSOR PROG.o
+TIMER2CallBack      0x2               ./MCAL_DRIVER/TIMER2_PROG.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL_DRIVER/DIO_PROG.o
+LOAD ./MCAL_DRIVER/GIE_PROG.o
+LOAD ./MCAL_DRIVER/TIMER1_PROG.o
+LOAD ./MCAL_DRIVER/TIMER2_PROG.o
+LOAD ./MCAL_DRIVER/TIMER_PROG.o
+LOAD ./MCAL_DRIVER/UART_Prg.o
+LOAD ./HAL_DRIVERS/BlueTooth_prg.o
+LOAD ./HAL_DRIVERS/DCMOTOR_PROG.o
+LOAD ./HAL_DRIVERS/FLAMESENSOR PROG.o
+LOAD ./HAL_DRIVERS/LineSensor_prog.o
+LOAD ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+LOAD ./main.o
+LOAD d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x28bc
+ *(.vectors)
+ .vectors       0x00000000       0x54 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL_DRIVER/DIO_PROG.o
+ .text          0x00000092        0x0 ./MCAL_DRIVER/GIE_PROG.o
+ .text          0x00000092        0x0 ./MCAL_DRIVER/TIMER1_PROG.o
+ .text          0x00000092        0x0 ./MCAL_DRIVER/TIMER2_PROG.o
+ .text          0x00000092        0x0 ./MCAL_DRIVER/TIMER_PROG.o
+ .text          0x00000092        0x0 ./MCAL_DRIVER/UART_Prg.o
+ .text          0x00000092        0x0 ./HAL_DRIVERS/BlueTooth_prg.o
+ .text          0x00000092        0x0 ./HAL_DRIVERS/DCMOTOR_PROG.o
+ .text          0x00000092        0x0 ./HAL_DRIVERS/FLAMESENSOR PROG.o
+ .text          0x00000092        0x0 ./HAL_DRIVERS/LineSensor_prog.o
+ .text          0x00000092        0x0 ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000092        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952       0xf2 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000952                __floatunsisf
+ .text          0x00000a44        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000a44        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000a44        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000a44       0x9e d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000a44                __clzsi2
+ .text          0x00000ae2      0x1aa d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000ae2                __pack_f
+ .text          0x00000c8c       0xf0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000c8c                __unpack_f
+ .text          0x00000d7c       0xb2 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000d7c                __fpcmp_parts_f
+ .text          0x00000e2e        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00000e2e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.DIO_VidsetpinDirection
+                0x00000e2e      0x200 ./MCAL_DRIVER/DIO_PROG.o
+                0x00000e2e                DIO_VidsetpinDirection
+ .text.DIO_VidsetpinValue
+                0x0000102e      0x200 ./MCAL_DRIVER/DIO_PROG.o
+                0x0000102e                DIO_VidsetpinValue
+ .text.DIO_U8GetPinValue
+                0x0000122e       0xf2 ./MCAL_DRIVER/DIO_PROG.o
+                0x0000122e                DIO_U8GetPinValue
+ .text.DIO_VidsetportDirection
+                0x00001320       0x82 ./MCAL_DRIVER/DIO_PROG.o
+                0x00001320                DIO_VidsetportDirection
+ .text.DIO_VidsetportValue
+                0x000013a2       0x82 ./MCAL_DRIVER/DIO_PROG.o
+                0x000013a2                DIO_VidsetportValue
+ .text.DIO_VidTogglePinvalue
+                0x00001424       0xfa ./MCAL_DRIVER/DIO_PROG.o
+                0x00001424                DIO_VidTogglePinvalue
+ .text.GIE_VidEnable
+                0x0000151e       0x1c ./MCAL_DRIVER/GIE_PROG.o
+                0x0000151e                GIE_VidEnable
+ .text.GIE_VidDisable
+                0x0000153a       0x1c ./MCAL_DRIVER/GIE_PROG.o
+                0x0000153a                GIE_VidDisable
+ .text.TIMER1_VidInit
+                0x00001556       0xc6 ./MCAL_DRIVER/TIMER1_PROG.o
+                0x00001556                TIMER1_VidInit
+ .text.TIMER1_SetOCROPWM
+                0x0000161c       0x2e ./MCAL_DRIVER/TIMER1_PROG.o
+                0x0000161c                TIMER1_SetOCROPWM
+ .text.TIMER1_SetSERVOANGLE
+                0x0000164a       0x82 ./MCAL_DRIVER/TIMER1_PROG.o
+                0x0000164a                TIMER1_SetSERVOANGLE
+ .text.WDT_VIDEN
+                0x000016cc       0x46 ./MCAL_DRIVER/TIMER1_PROG.o
+                0x000016cc                WDT_VIDEN
+ .text.WDT_VIDDIS
+                0x00001712       0x22 ./MCAL_DRIVER/TIMER1_PROG.o
+                0x00001712                WDT_VIDDIS
+ .text.TIMER1SetCallBack
+                0x00001734       0x24 ./MCAL_DRIVER/TIMER1_PROG.o
+                0x00001734                TIMER1SetCallBack
+ .text.TIMER1_SetPRELOADVALUE
+                0x00001758       0x68 ./MCAL_DRIVER/TIMER1_PROG.o
+                0x00001758                TIMER1_SetPRELOADVALUE
+ .text.__vector_9
+                0x000017c0       0x74 ./MCAL_DRIVER/TIMER1_PROG.o
+                0x000017c0                __vector_9
+ .text.TIMER2_VidInit
+                0x00001834       0x7e ./MCAL_DRIVER/TIMER2_PROG.o
+                0x00001834                TIMER2_VidInit
+ .text.TIMER2_VidSetDesiredTime_ms
+                0x000018b2       0x42 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x000018b2                TIMER2_VidSetDesiredTime_ms
+ .text.TIMER2SetCallBack
+                0x000018f4       0x24 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x000018f4                TIMER2SetCallBack
+ .text.TIMER2_SetPRELOADVALUE
+                0x00001918       0x3a ./MCAL_DRIVER/TIMER2_PROG.o
+                0x00001918                TIMER2_SetPRELOADVALUE
+ .text.TIMER2_SetOCROPWM
+                0x00001952       0x40 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x00001952                TIMER2_SetOCROPWM
+ .text.__vector_5
+                0x00001992       0x74 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x00001992                __vector_5
+ .text.__vector_4
+                0x00001a06       0x5a ./MCAL_DRIVER/TIMER2_PROG.o
+                0x00001a06                __vector_4
+ .text.TIMER0_VidInit
+                0x00001a60       0x7e ./MCAL_DRIVER/TIMER_PROG.o
+                0x00001a60                TIMER0_VidInit
+ .text.TIMER0_VidSetDesiredTime_ms
+                0x00001ade       0x42 ./MCAL_DRIVER/TIMER_PROG.o
+                0x00001ade                TIMER0_VidSetDesiredTime_ms
+ .text.TIMER0SetCallBack
+                0x00001b20       0x24 ./MCAL_DRIVER/TIMER_PROG.o
+                0x00001b20                TIMER0SetCallBack
+ .text.TIMER0_SetPRELOADVALUE
+                0x00001b44       0x3a ./MCAL_DRIVER/TIMER_PROG.o
+                0x00001b44                TIMER0_SetPRELOADVALUE
+ .text.TIMER0_SetOCROPWM
+                0x00001b7e       0x6e ./MCAL_DRIVER/TIMER_PROG.o
+                0x00001b7e                TIMER0_SetOCROPWM
+ .text.__vector_11
+                0x00001bec       0x74 ./MCAL_DRIVER/TIMER_PROG.o
+                0x00001bec                __vector_11
+ .text.__vector_10
+                0x00001c60       0x5a ./MCAL_DRIVER/TIMER_PROG.o
+                0x00001c60                __vector_10
+ .text.SetCallBack
+                0x00001cba       0x24 ./MCAL_DRIVER/UART_Prg.o
+                0x00001cba                SetCallBack
+ .text.UART_VidInit
+                0x00001cde       0xa2 ./MCAL_DRIVER/UART_Prg.o
+                0x00001cde                UART_VidInit
+ .text.UART_VidSendData
+                0x00001d80       0x2c ./MCAL_DRIVER/UART_Prg.o
+                0x00001d80                UART_VidSendData
+ .text.UART_VidRecieveData
+                0x00001dac       0x14 ./MCAL_DRIVER/UART_Prg.o
+                0x00001dac                UART_VidRecieveData
+ .text.UART_VidSendString
+                0x00001dc0       0x52 ./MCAL_DRIVER/UART_Prg.o
+                0x00001dc0                UART_VidSendString
+ .text.__vector_13
+                0x00001e12       0x5a ./MCAL_DRIVER/UART_Prg.o
+                0x00001e12                __vector_13
+ .text.BluetoothInit
+                0x00001e6c       0x12 ./HAL_DRIVERS/BlueTooth_prg.o
+                0x00001e6c                BluetoothInit
+ .text.Bluetooth_U32Getnumber
+                0x00001e7e       0x1e ./HAL_DRIVERS/BlueTooth_prg.o
+                0x00001e7e                Bluetooth_U32Getnumber
+ .text.Bluetooth_VidSendData
+                0x00001e9c       0x1a ./HAL_DRIVERS/BlueTooth_prg.o
+                0x00001e9c                Bluetooth_VidSendData
+ .text.BluetoothVidSendString
+                0x00001eb6       0x20 ./HAL_DRIVERS/BlueTooth_prg.o
+                0x00001eb6                BluetoothVidSendString
+ .text.Bluetooth_SetCallBack
+                0x00001ed6       0x20 ./HAL_DRIVERS/BlueTooth_prg.o
+                0x00001ed6                Bluetooth_SetCallBack
+ .text.DCMOTOR1_VidInit
+                0x00001ef6       0x36 ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x00001ef6                DCMOTOR1_VidInit
+ .text.DCMOTOR2_VidInit
+                0x00001f2c       0x36 ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x00001f2c                DCMOTOR2_VidInit
+ .text.DCMOTOR_CHOOSE
+                0x00001f62       0x4a ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x00001f62                DCMOTOR_CHOOSE
+ .text.DCMOTOR1_VidRotate
+                0x00001fac       0xf6 ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x00001fac                DCMOTOR1_VidRotate
+ .text.DCMOTOR_VidRotateright
+                0x000020a2       0x3c ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x000020a2                DCMOTOR_VidRotateright
+ .text.DCMOTOR_VidRotateleft
+                0x000020de       0x3c ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x000020de                DCMOTOR_VidRotateleft
+ .text.DCMOTOR_VidRotatestop
+                0x0000211a       0x16 ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x0000211a                DCMOTOR_VidRotatestop
+ .text.DCMOTOR_VidRotateforward
+                0x00002130       0x16 ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x00002130                DCMOTOR_VidRotateforward
+ .text.DCMOTOR_VidRotatebackward
+                0x00002146       0x16 ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x00002146                DCMOTOR_VidRotatebackward
+ .text.DCMOTOR_VidRotate180
+                0x0000215c       0x16 ./HAL_DRIVERS/DCMOTOR_PROG.o
+                0x0000215c                DCMOTOR_VidRotate180
+ .text.FLAMEDETECT_VID1
+                0x00002172       0x1e ./HAL_DRIVERS/FLAMESENSOR PROG.o
+                0x00002172                FLAMEDETECT_VID1
+ .text.FLAMEDETECT_VID2
+                0x00002190       0x1e ./HAL_DRIVERS/FLAMESENSOR PROG.o
+                0x00002190                FLAMEDETECT_VID2
+ .text.LINESENSOR_VidInit
+                0x000021ae       0x22 ./HAL_DRIVERS/LineSensor_prog.o
+                0x000021ae                LINESENSOR_VidInit
+ .text.LINESENSOR_VidRightRead
+                0x000021d0       0x16 ./HAL_DRIVERS/LineSensor_prog.o
+                0x000021d0                LINESENSOR_VidRightRead
+ .text.LINESENSOR_VidLeftRead
+                0x000021e6       0x16 ./HAL_DRIVERS/LineSensor_prog.o
+                0x000021e6                LINESENSOR_VidLeftRead
+ .text.MultipleTasksCar_VidInit
+                0x000021fc       0x2a ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+                0x000021fc                MultipleTasksCar_VidInit
+ .text.MultipleTasksIntialCar_VidInit
+                0x00002226       0x8c ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+                0x00002226                MultipleTasksIntialCar_VidInit
+ .text.MultipleTasksCar_UARTInterrupt
+                0x000022b2       0x80 ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+                0x000022b2                MultipleTasksCar_UARTInterrupt
+ .text.MultipleTasksLineSensor_MoveCar
+                0x00002332      0x248 ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+                0x00002332                MultipleTasksLineSensor_MoveCar
+ .text.MultipleTasksFlameSensor_MoveCar
+                0x0000257a      0x250 ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+                0x0000257a                MultipleTasksFlameSensor_MoveCar
+ .text.main     0x000027ca       0x32 ./main.o
+                0x000027ca                main
+ .text.libgcc   0x000027fc       0x26 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x000027fc                __divmodhi4
+                0x000027fc                _div
+ .text.libgcc   0x00002822        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00002822        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00002822        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00002822       0x28 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002822                __udivmodhi4
+ .text.libgcc   0x0000284a       0x38 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x0000284a                __prologue_saves__
+ .text.libgcc   0x00002882       0x36 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00002882                __epilogue_restores__
+                0x000028b8                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000028b8        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000028b8                exit
+                0x000028b8                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000028b8        0x4 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000028bc                _etext = .
+
+.data           0x00800060      0x118 load address 0x000028bc
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL_DRIVER/DIO_PROG.o
+ .data          0x00800060        0x0 ./MCAL_DRIVER/GIE_PROG.o
+ .data          0x00800060        0x0 ./MCAL_DRIVER/TIMER1_PROG.o
+ .data          0x00800060        0x0 ./MCAL_DRIVER/TIMER2_PROG.o
+ .data          0x00800060        0x0 ./MCAL_DRIVER/TIMER_PROG.o
+ .data          0x00800060        0x0 ./MCAL_DRIVER/UART_Prg.o
+ .data          0x00800060        0x0 ./HAL_DRIVERS/BlueTooth_prg.o
+ .data          0x00800060        0x0 ./HAL_DRIVERS/DCMOTOR_PROG.o
+ .data          0x00800060        0x0 ./HAL_DRIVERS/FLAMESENSOR PROG.o
+ .data          0x00800060        0x0 ./HAL_DRIVERS/LineSensor_prog.o
+ .data          0x00800060        0x0 ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+ .data          0x00800060        0x0 ./main.o
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800060        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800060        0x8 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800060                __thenan_sf
+ .data          0x00800068        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x00800068        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800068        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800068        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800068        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800068        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800068        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800068        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800068      0x100 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800068                __clz_tab
+ *(.data*)
+ .data.TIMER1_PRELOAD
+                0x00800168        0x4 ./MCAL_DRIVER/TIMER1_PROG.o
+                0x00800168                TIMER1_PRELOAD
+ .data.TIMER2_OVCounter
+                0x0080016c        0x2 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x0080016c                TIMER2_OVCounter
+ .data.TIMER2_CTC
+                0x0080016e        0x4 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x0080016e                TIMER2_CTC
+ .data.TIMER0_OVCounter
+                0x00800172        0x2 ./MCAL_DRIVER/TIMER_PROG.o
+                0x00800172                TIMER0_OVCounter
+ .data.TIMER0_CTC
+                0x00800174        0x4 ./MCAL_DRIVER/TIMER_PROG.o
+                0x00800174                TIMER0_CTC
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800178                . = ALIGN (0x2)
+                0x00800178                _edata = .
+                0x00800178                PROVIDE (__data_end, .)
+
+.bss            0x00800178       0x29
+                0x00800178                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800178        0x0 ./MCAL_DRIVER/DIO_PROG.o
+ .bss           0x00800178        0x0 ./MCAL_DRIVER/GIE_PROG.o
+ .bss           0x00800178        0x0 ./MCAL_DRIVER/TIMER1_PROG.o
+ .bss           0x00800178        0x0 ./MCAL_DRIVER/TIMER2_PROG.o
+ .bss           0x00800178        0x0 ./MCAL_DRIVER/TIMER_PROG.o
+ .bss           0x00800178        0x0 ./MCAL_DRIVER/UART_Prg.o
+ .bss           0x00800178        0x0 ./HAL_DRIVERS/BlueTooth_prg.o
+ .bss           0x00800178        0x0 ./HAL_DRIVERS/DCMOTOR_PROG.o
+ .bss           0x00800178        0x0 ./HAL_DRIVERS/FLAMESENSOR PROG.o
+ .bss           0x00800178        0x0 ./HAL_DRIVERS/LineSensor_prog.o
+ .bss           0x00800178        0x0 ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+ .bss           0x00800178        0x0 ./main.o
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800178        0x0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.bss*)
+ .bss.OV_COUNT.1561
+                0x00800178        0x1 ./MCAL_DRIVER/TIMER1_PROG.o
+ .bss.TIMER2_OV
+                0x00800179        0x4 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x00800179                TIMER2_OV
+ .bss.TIMER2_PRELOAD
+                0x0080017d        0x4 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x0080017d                TIMER2_PRELOAD
+ .bss.TIMER2_COUNTERFLAG
+                0x00800181        0x4 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x00800181                TIMER2_COUNTERFLAG
+ .bss.TIMER2_U16PRESCALER
+                0x00800185        0x2 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x00800185                TIMER2_U16PRESCALER
+ .bss.OV_COUNT.1507
+                0x00800187        0x1 ./MCAL_DRIVER/TIMER2_PROG.o
+ .bss.TIMER0_OV
+                0x00800188        0x4 ./MCAL_DRIVER/TIMER_PROG.o
+                0x00800188                TIMER0_OV
+ .bss.TIMER0_PRELOAD
+                0x0080018c        0x4 ./MCAL_DRIVER/TIMER_PROG.o
+                0x0080018c                TIMER0_PRELOAD
+ .bss.TIMER0_COUNTERFLAG
+                0x00800190        0x4 ./MCAL_DRIVER/TIMER_PROG.o
+                0x00800190                TIMER0_COUNTERFLAG
+ .bss.TIMER0_U16PRESCALER
+                0x00800194        0x2 ./MCAL_DRIVER/TIMER_PROG.o
+                0x00800194                TIMER0_U16PRESCALER
+ .bss.OV_COUNT.1504
+                0x00800196        0x1 ./MCAL_DRIVER/TIMER_PROG.o
+ .bss.UART_SetCallBack
+                0x00800197        0x2 ./MCAL_DRIVER/UART_Prg.o
+ *(COMMON)
+ COMMON         0x00800199        0x2 ./MCAL_DRIVER/TIMER1_PROG.o
+                0x00800199                TIMER1CallBack
+ COMMON         0x0080019b        0x2 ./MCAL_DRIVER/TIMER2_PROG.o
+                0x0080019b                TIMER2CallBack
+ COMMON         0x0080019d        0x2 ./MCAL_DRIVER/TIMER_PROG.o
+                0x0080019d                TIMER0CallBack
+ COMMON         0x0080019f        0x2 ./HAL_DRIVERS/FLAMESENSOR PROG.o
+                0x0080019f                detect2
+                0x008001a0                detect1
+                0x008001a1                PROVIDE (__bss_end, .)
+                0x000028bc                __data_load_start = LOADADDR (.data)
+                0x000029d4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001a1        0x0
+                0x008001a1                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001a1                PROVIDE (__noinit_end, .)
+                0x008001a1                _end = .
+                0x008001a1                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x2cd0
+ *(.stab)
+ .stab          0x00000000      0x750 ./MCAL_DRIVER/DIO_PROG.o
+ .stab          0x00000750      0x180 ./MCAL_DRIVER/GIE_PROG.o
+                                0x3f0 (size before relaxing)
+ .stab          0x000008d0      0x45c ./MCAL_DRIVER/TIMER1_PROG.o
+                                0x6cc (size before relaxing)
+ .stab          0x00000d2c      0x3b4 ./MCAL_DRIVER/TIMER2_PROG.o
+                                0x624 (size before relaxing)
+ .stab          0x000010e0      0x39c ./MCAL_DRIVER/TIMER_PROG.o
+                                0x60c (size before relaxing)
+ .stab          0x0000147c      0x3a8 ./MCAL_DRIVER/UART_Prg.o
+                                0x618 (size before relaxing)
+ .stab          0x00001824      0x2c4 ./HAL_DRIVERS/BlueTooth_prg.o
+                                0x4a4 (size before relaxing)
+ .stab          0x00001ae8      0x4c8 ./HAL_DRIVERS/DCMOTOR_PROG.o
+                                0x738 (size before relaxing)
+ .stab          0x00001fb0      0x1b0 ./HAL_DRIVERS/FLAMESENSOR PROG.o
+                                0x420 (size before relaxing)
+ .stab          0x00002160      0x1bc ./HAL_DRIVERS/LineSensor_prog.o
+                                0x42c (size before relaxing)
+ .stab          0x0000231c      0x81c ./APP_DRIVER/MULTIPAL_TASKS_CAR.o
+                                0x9fc (size before relaxing)
+ .stab          0x00002b38      0x198 ./main.o
+                                0x414 (size before relaxing)
+
+.stabstr        0x00000000     0x15d2
+ *(.stabstr)
+ .stabstr       0x00000000     0x15d2 ./MCAL_DRIVER/DIO_PROG.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000120       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000140       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000160       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000180       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x1f2
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x24 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000014d       0x1f d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000016c       0x1f d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000018b       0x21 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001ac       0x26 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001d2       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x240b
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x206 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00001b0b      0x117 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001c22      0x2df d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001f01      0x251 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002152      0x210 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002362       0xa9 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1386
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x157 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000e09       0xc4 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000ecd      0x1c0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x0000108d      0x154 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x000011e1      0x13b d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x0000131c       0x6a d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x11d6
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x133 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000ca9       0xa5 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000d4e      0x18a d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000ed8      0x14b d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001023      0x137 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000115a       0x7c d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1c0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000140       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000160       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000180       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001a0       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2f6
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0x8 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000270        0x8 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000278        0x8 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000280        0xa d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000028a       0x21 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x000002ab       0x20 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002cb       0x10 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002db        0xb d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002e6       0x10 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x96e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654       0x4c d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x000006a0       0x94 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000734      0x13e d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000872       0xac d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000091e       0x50 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(TheImtFinalCar.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 d:/empeded system/04-sdk/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
